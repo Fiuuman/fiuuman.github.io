@@ -18,9 +18,9 @@ To run this blog locally, you'll need to have Ruby and Jekyll installed on your 
    ```
 
 2. **Run locally**
-```bash
-jekyll serve
-```
+   ```bash
+   jekyll serve
+   ```
 
 After running this command, you can view the blog at http://localhost:4000.
 
